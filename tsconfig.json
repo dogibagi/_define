@@ -3,7 +3,7 @@
 		"target": "esnext",
 		"module": "None",
 		"sourceMap": true,
-		"outFile": "js/define.js",
+		"outFile": "../define.js",
 		"noImplicitAny": true
 	}
 }
