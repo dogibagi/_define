@@ -22,18 +22,19 @@ Here the outFile `"js/main.js"` consists of define calls for each TypeScript mod
 ## install TypeScript
 - using npm (globally is fine):
 
-    npm update
+```npm update```
 
-    npm install typescript -g
+```npm install typescript -g```
 
 (more info: https://www.typescriptlang.org/id/download)
 
 ## build
 - command line:
 
-    tsc -b
+```tsc -b```
 
 ## how to use
 - include define.js in html as the first script
+
 ```<script type="text/javascript" src="define.js"></script>```
 
