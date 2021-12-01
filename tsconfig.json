@@ -1,0 +1,9 @@
+{
+	"compilerOptions": {
+		"target": "esnext",
+		"module": "None",
+		"sourceMap": true,
+		"outFile": "js/define.js",
+		"noImplicitAny": true
+	}
+}
