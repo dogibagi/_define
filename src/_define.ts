@@ -52,7 +52,7 @@ const define:TDefine=(()=>{
 	{
 		getModule(name).DoDefine(dependencies, factory);
 	}
-	define["amd"]={};
+	define["not_amd"]={};
 	return define;
 })();
 
